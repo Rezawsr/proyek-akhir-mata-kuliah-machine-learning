@@ -1,9 +1,9 @@
 # proyek-akhir-mata-kuliah-machine-learning
 
-Nama : Muhammad Reza Abdillah
-NIM : 200907501018
-Kelas : Bisnis Digital B
-Mata Kuliah : Machine Learning
+> Nama : Muhammad Reza Abdillah
+> NIM : 200907501018
+> Kelas : Bisnis Digital B
+> Mata Kuliah : Machine Learning
 
 
 Struktur Proyek Akhir Matakuliah Machine Learning Sentimen Ulasan pada Restoran di Makassar
